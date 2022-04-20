@@ -39,5 +39,8 @@ body {
 .instagram-continue {
     display: flex;
     align-items: center;
+    /*Horizontal*/
     justify-content: space-around;
+    /*Verttical*/
+    flex-direction: column;
 }
